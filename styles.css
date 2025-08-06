@@ -1,0 +1,14 @@
+h1{
+    background-color: rgb(224, 180, 180);
+    color: rgb(0, 0, 0);
+    font-size: 69px;
+    padding: 0 16px;
+    margin: 4px;
+    text-align: left;
+}
+
+ul{
+    font-weight: bold;
+    font-style: italic;
+    font-family:'Times New Roman', Times, serif;
+}
